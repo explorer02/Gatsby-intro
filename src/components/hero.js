@@ -60,5 +60,7 @@ const Hero = () => {
     </ImageBackground>
   );
 };
-
+export function fun() {
+  return 0;
+}
 export default Hero;
